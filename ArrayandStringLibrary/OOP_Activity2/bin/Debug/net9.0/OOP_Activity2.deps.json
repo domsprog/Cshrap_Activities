@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OOP_Activity2/1.0.0": {
+        "dependencies": {
+          "ArrayandStringLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OOP_Activity2.dll": {}
+        }
+      },
+      "ArrayandStringLibrary/1.0.0": {
+        "runtime": {
+          "ArrayandStringLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_Activity2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayandStringLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

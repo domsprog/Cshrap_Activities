@@ -1,0 +1,12 @@
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\bin\Debug\net9.0\ArrayandStringLibrary.deps.json
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\bin\Debug\net9.0\ArrayandStringLibrary.dll
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\bin\Debug\net9.0\ArrayandStringLibrary.pdb
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ArrayandStringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ArrayandStringLibrary.AssemblyInfoInputs.cache
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ArrayandStringLibrary.AssemblyInfo.cs
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ArrayandStringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ArrayandStringLibrary.sourcelink.json
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ArrayandStringLibrary.dll
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\refint\ArrayandStringLibrary.dll
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ArrayandStringLibrary.pdb
+C:\Users\dominic\source\repos\Cshrap_Activities\ArrayandStringLibrary\ArrayandStringLibrary\obj\Debug\net9.0\ref\ArrayandStringLibrary.dll
