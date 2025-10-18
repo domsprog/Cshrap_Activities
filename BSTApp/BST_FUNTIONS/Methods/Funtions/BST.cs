@@ -1,6 +1,18 @@
 ﻿using System;
 using BST_Library.Methods.Node;
 
+/* <Summary>
+
+ The BST class is responsible for creating and managing a Binary Search Tree (BST).
+ It keeps track of the root node and allows adding new values to the tree.
+ The Insert method adds data by placing each value in the correct position based on BST rules 
+ (smaller values go to the left, larger ones to the right).
+ The DisplayTree method neatly prints the tree structure in the console, 
+ showing how the nodes are connected.
+
+</Summary>
+*/
+
 namespace BST_Library.Methods.Funtions
 {
     public class BST
