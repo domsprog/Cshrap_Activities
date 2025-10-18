@@ -6,6 +6,18 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+/*
+ <Summary>
+
+ The Analytics class gives the analytical functions on this BST project, which executes the following:
+ - FindMin(TreeNode root): Finds and returns the smallest value in the tree.
+ - FindMax(TreeNode root): Finds and returns the largest value in the tree.
+ - CountNodes(TreeNode root): Counts and returns the total number of nodes in the tree.
+ - CountLeafNodes(TreeNode root): Counts and returns the number of leaf nodes (nodes with no children).
+ - GetHeight(TreeNode root): Calculates and returns the height of the tree (the longest path from root to a leaf).
+
+</Summary>     
+ */
 
 namespace BST_Library.Methods.Funtions
 {
