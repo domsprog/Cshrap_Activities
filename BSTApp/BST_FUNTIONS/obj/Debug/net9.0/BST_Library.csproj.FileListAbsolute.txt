@@ -1,0 +1,12 @@
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\BST_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\BST_Library.AssemblyInfoInputs.cache
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\BST_Library.AssemblyInfo.cs
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\BST_Library.csproj.CoreCompileInputs.cache
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\BST_Library.sourcelink.json
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\bin\Debug\net9.0\BST_Library.deps.json
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\bin\Debug\net9.0\BST_Library.dll
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\bin\Debug\net9.0\BST_Library.pdb
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\BST_Library.dll
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\refint\BST_Library.dll
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\BST_Library.pdb
+C:\Users\dominic\source\repos\Cshrap_Activities\BSTApp\BST_FUNTIONS\obj\Debug\net9.0\ref\BST_Library.dll
