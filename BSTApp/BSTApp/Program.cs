@@ -7,6 +7,23 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
+/* <Summary>
+
+ The Program class serves as the main entry point of the Binary Search Tree (BST) application.
+ It provides a simple console-based menu that allows users to interact with the BST.
+
+ - Option 1: Insert Number – Adds a new number into the BST.
+ - Option 2: Display Tree – Shows the current structure of the tree.
+ - Option 3: Traversals – Displays the tree using Inorder, Preorder, and Postorder traversals.
+ - Option 4: Analytics – Shows various tree statistics like Minimum, Maximum, 
+   Total Nodes, Leaf Nodes, and Height.
+ - Option 5: Exit – Closes the program.
+
+ The program continuously runs until the user chooses to exit.
+
+</Summary>
+*/ 
+
 namespace BSTApp
 {
   public  class Program
